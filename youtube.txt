@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Homepage: https://github.com/Seven-t7
-! Title: Youtube Block
+! Title: Youtube Blocker
 ! Expires: 31 days
 ! Version: 202011292132
 ! Description: Custom filters to stop thumbnails covering the end of YouTube videos 
