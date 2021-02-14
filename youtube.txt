@@ -4,7 +4,7 @@
 ! Expires: 31 days
 ! Version: 202011292132
 ! Description: Custom filters to stop thumbnails covering the end of YouTube videos 
-! Last modified: 13 fev 2021 21:14 UTC
+! Last modified: 13 fev 2021 21:21 UTC
 !
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-ce-covering-overlay
