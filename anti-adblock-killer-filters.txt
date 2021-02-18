@@ -3194,10 +3194,9 @@ yafud.pl###adsense_banner_top
 ! wolfram-client.tk
 ! wolfram-client.tk
 @@||go.wolfram-client.tk^$generichide
-adblock.js*
+adblock.js*$script
 ! ----- Hide/Block ------------------------------------------------------------------------------------------------------------------- !
-! animeshouse.net##IFRAME[id="arc-widget-launcher-iframe"][class="arc-iframe is-visible"]
-animeshouse.net##IMG[src="https://discordapp.com/api/guilds/732016144277438495/widget.png?style=banner2&cache=18"]
+!
 ! ----- Annoying Elements ----- !
 !
 /fbox/fb.js$script
@@ -30756,10 +30755,9 @@ urlchecker.net###ads_notify
 urlchecker.org###adchecker
 urlchecker.org###adchecker_btn
 urlchecker.org###ads_notify
-https://c.adsco.re/*
-https://betjeyxf.com/*
-https://bbocajxn.com/*
-http://blockadblock.com/*
+! https://c.adsco.re/*
+! https://betjeyxf.com/*
+! https://bbocajxn.com/*
 !
 ! ----- Internal Use ------------------------------------------------------------------------------------------------------------------- !
 !
